@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "travels.html",
+    "currentPage": "index.html",
     "name": "Jorge Cortell website",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,9 @@
     "uniqCompNum": 22,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -153,7 +155,7 @@
           },
           "title": "Welcome to my site",
           "text": "This is the online home of <span style=\"font-style: normal;\"><b>Jorge Cortell</b></span>.<br>For whatever reason you seem interested in me or what I have to say. <br>In that case, you have come to the right place.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://jorge.cortell.net/blogEN\" data-toolbar=\"-mbrBtnMove\">My BLOG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/trips\" data-toolbar=\"-mbrBtnMove\">My TRAVELS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"/about\" data-toolbar=\"-mbrBtnMove\">ABOUT me</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://jorge.cortell.net/blogEN\" data-toolbar=\"-mbrBtnMove\">My BLOG</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"travels.html\" data-toolbar=\"-mbrBtnMove\">My TRAVELS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">ABOUT me</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -389,8 +391,8 @@
             }
           },
           "title1": "Serial Entrepreneur (x8)",
-          "subtitle1": "8 times and still have not failed",
-          "caption1": "I've founded or co-founded 8 companies (5 exits). Never declared bankruptcy. If you want to know more, take a look at my profile in <a href=\"http://www.linkedin.com/in/jcortell/en\">LinkedIn</a>.",
+          "subtitle1": "8 times and none a fail",
+          "caption1": "I've founded or co-founded 8 companies (5 exits). My <a href=\"http://www.kanteron.com\" target=\"_blank\">current company</a> was chosen \"The next European unicorn\". If you want to know more, take a look at my profile in <a href=\"http://www.linkedin.com/in/jcortell/en\">LinkedIn</a>.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -406,7 +408,7 @@
           },
           "title2": "Art Curator&nbsp;",
           "subtitle2": "&nbsp;International Curator and Advisor",
-          "caption2": "I have curated several art exhibits, in different countries. I'm also Advisor at the Saint Charles Royal Academy of Arts.<br>If you want to know more, take a look at my profile in LinkedIn.<br>",
+          "caption2": "I've curated several art exhibits, in different countries. I'm also Advisor for the <i>Saint Charles Royal Academy of Arts</i>.<br>If you want to know more, take a look at my profile in LinkedIn.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -422,7 +424,7 @@
           },
           "title3": "Hacktivist",
           "subtitle3": "Hacker + Activist",
-          "caption3": "If you are not completely sure what a <i>hacker</i> is, you should look it up.<br>Then add activism (environment, political, human rights, culture...), and you have <i>hacktivism</i>.",
+          "caption3": "I've lobbyed against software patents in the European Parliament, lectured against copyright throughout Europe and the USA, documented environmental abuses in Cambodia...",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -438,7 +440,7 @@
           },
           "title4": "Academic",
           "subtitle4": "Lecturer, Researcher and Student",
-          "caption4": "The three roles go hand in hand. I've officially been all of them, lecturing in 60 universities, being assistant professor in 3, studying in 7... again, more info in my <a href=\"http://www.linkedin.com/in/jcortell/en\">LinkedIn</a> profile.",
+          "caption4": "The three roles go hand in hand. I've been all of them, lecturing in 60 universities, assistant professor in 3, studying in 7... again, more info in my <a href=\"http://www.linkedin.com/in/jcortell/en\">LinkedIn</a> profile.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -454,7 +456,7 @@
           },
           "title5": "Government Advisor",
           "subtitle5": "Working from the 'inside'",
-          "caption5": "I have advised governments in Latinamerican countries, as well as the European Union, on &nbsp;matter related to copyleft, innovation and science.",
+          "caption5": "I have advised governments in Latinamerican countries, as well as the European Commission, on &nbsp;matters related to copyleft, innovation and healthcare.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -470,7 +472,7 @@
           },
           "title6": "And more...",
           "subtitle6": "None of that defines me or limits me",
-          "caption6": "I'm SO much more than all that! But there is only so much one fit in a website, or is even willing to share with complete strangers.",
+          "caption6": "Former pro-basketball player, child-actor, writer, husband, father.., <br>But there is only so much one can fit in a website, or is even willing to share with complete strangers.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -484,7 +486,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>I might add more info here, eventually. But for now, you can find more info in my social media accounts:</p>"
+          "text": "<p><i>I've seen things you people wouldn't believe</i>:</p><p><br></p><p>I've advised a king to abdicate and establish a republic, I've been completely surounded by snakes, I've survived earthquakes, hurricanes and floods, I've travelled throughout the world... before I was even old enough to drive, I've been shot at and poisoned, I've survived a cancer, I've photographed archeological excavations in war zones, I've won international sports competitions, I'v created software that has helped cure millions of patients, I've lived with a grave psychyatric patient for years without being able to cure her, I've been detained by an anti-terrorist squad in Turkey, I've received scientific awards in several fields, I've dined in palaces with princes and ambassadors, I've had lunch with homeless people in Bangladesh, I've partied with billionaires on the beach in California and surfed in Ibiza, the girlfriend of a narc stripped for me in front of him in Bogota, I've hacked the computers of criminals and turned the evidence to the police which lead to jail convictions, I've organized anarchist demonstrations through the streets of New York and strikes in the classroms, I've had more than a dozen surgeries and I've broken my neck (twice) and all extremities, police thwarted a plan to kidnap me in Peru, I've been under so much stress that I've broken four teeth, in Moscow my bodyguard stopped traffic with an AK47, I was beaten up so badly as a kid that one of my eyes changed color... permanetly, I've developed a software in collaboration with NASA to be able to afford the most exotic engagemnent ring, I've lectured in a stadium filled with thousands of people, I've seen people be born and die, a cop has robbed me and a robber has helped me, I've gotten in the ring to fight in several martial arts, as a kid I saw how for hours a tank aim and threaten to shoot at my house with me inside, the university that forced me to resign later gave me a medal, I've been buried in the snow, I've been so rich that I've cruised around the world and so poor that I could not pay my utilities bill.&nbsp;</p><p>Above all, I've loved and been loved. I've found beauty.</p><p><br></p><p>And I'm only getting started... but <i>all those moments will be lost in time, like tears in rain</i>.</p>"
         },
         {
           "_inherit": "social-buttons2",
