@@ -1,0 +1,18 @@
+repo_name: jcortell/web
+report_id: 94474b18aa6fbb0793946c1ba89c7935
+repo_type: Public
+timestamp: '2023-12-09T15:20:02+00:00'
+requested_by: jcortell
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
